@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "configs": [
+    {
+      "key": "enable_lunar",
+      "type": "bool",
+      "default": true,
+      "hint": "enable_lunar_support"
+    }
+  ]
+}
