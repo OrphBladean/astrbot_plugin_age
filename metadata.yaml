@@ -1,4 +1,4 @@
 name: astrbot_plugin_age
-desc: 年龄计算插件（公历/农历，数据仅保存在本机）
-version: "1.0.0"
-author: 你的名字
+desc: 年龄计算插件，支持公历/农历生日保存与周岁查询
+version: "1.0.1"
+author: OrphBladean
